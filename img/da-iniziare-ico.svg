@@ -1,0 +1,10 @@
+<svg id="Componente_22_84" data-name="Componente 22 – 84" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f6a911"/>
+      <stop offset="1" stop-color="#ea8700"/>
+    </linearGradient>
+  </defs>
+  <circle id="Ellisse_13" data-name="Ellisse 13" cx="15" cy="15" r="15" fill="url(#linear-gradient)"/>
+  <path id="star-solid_1_" data-name="star-solid (1)" d="M29.427.653,26.986,5.6l-5.462.8a1.2,1.2,0,0,0-.662,2.041l3.951,3.85-.935,5.439a1.2,1.2,0,0,0,1.735,1.26L30.5,16.421l4.886,2.568a1.2,1.2,0,0,0,1.735-1.26l-.935-5.439,3.951-3.85A1.2,1.2,0,0,0,39.475,6.4l-5.462-.8L31.572.653A1.2,1.2,0,0,0,29.427.653Z" transform="translate(-15.5 5.013)" fill="#fff"/>
+</svg>

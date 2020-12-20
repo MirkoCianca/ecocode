@@ -1,0 +1,10 @@
+<svg id="Componente_16_63" data-name="Componente 16 – 63" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4bc135"/>
+      <stop offset="1" stop-color="#1f6612"/>
+    </linearGradient>
+  </defs>
+  <circle id="Ellisse_7" data-name="Ellisse 7" cx="12" cy="12" r="12" transform="translate(3 3)" fill="#fff"/>
+  <path id="check-circle-solid" d="M38,23A15,15,0,1,1,23,8,15,15,0,0,1,38,23ZM21.265,30.942,32.394,19.813a.968.968,0,0,0,0-1.369l-1.369-1.369a.968.968,0,0,0-1.369,0l-9.076,9.076-4.237-4.237a.968.968,0,0,0-1.369,0l-1.369,1.369a.968.968,0,0,0,0,1.369l6.29,6.29a.968.968,0,0,0,1.369,0Z" transform="translate(-8 -8)" fill="url(#linear-gradient)"/>
+</svg>
